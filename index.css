@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #012a4a;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    
+}
+
+#titlesH {
+    color: white;
+    font-family: verdana;
+}
+
+#scoreH {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+
+}
+
+#titlesG {
+    color: white;
+    font-family: verdana;
+}
+
+#scoreG {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+
+}
+
+#plus1home{
+    background: none;
+    border: solid #9AABD8;
+    color: #9AABD8;
+    justify-content: center;
+    
+}
+
+#plus2home{
+    background: none;
+    border: solid #9AABD8;
+    color: #9AABD8;
+    justify-content: center;
+    
+}
+#plus3home{
+    background: none;
+    border: solid #9AABD8;
+    color: #9AABD8;
+    justify-content: center;
+    
+}
+
+#plus1guest {
+    background: none;
+    border: solid #9AABD8;
+    color: #9AABD8;
+    justify-content: center;
+    
+}
+
+#plus2guest{
+    background: none;
+    border: solid #9AABD8;
+    color: #9AABD8;
+    justify-content: center;
+    
+}
+
+#plus3guest{
+    background: none;
+    border: solid #9AABD8;
+    color: #9AABD8;
+    justify-content: center;
+    
+}
+
+#new {
+    display: block;
+    
+}
